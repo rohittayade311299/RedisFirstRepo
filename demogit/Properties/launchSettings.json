@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "demogit": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
